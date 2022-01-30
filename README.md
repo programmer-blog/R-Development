@@ -2,4 +2,4 @@
 
 Basics of R programming
 
-Thes is coure for R-Programming
+Thes is exercies for course for R-Programming
